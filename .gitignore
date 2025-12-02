@@ -1,0 +1,11 @@
+# .gitignore
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Logs and Temp
+npm-debug.log*
+*.log
+.DS_Store
